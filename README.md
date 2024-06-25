@@ -1,7 +1,8 @@
-### Hi there Im Ranul 👋
+### Hi there Im Ranul Akmeemana👋
 <ul>
-  <li>I am a undergraduate at Informatics Institute of Technology</li>
-  <li>Currently Learning React</li>
+  <li>I am a Software Engineer at EchonLabs pvt ltd</li>
+  <li>Currently Working on MEAN stack </li>
+  <li>Currently Learning Flutter</li>
 </ul>
 <br><img align="left" width="200" height="200" src="octocat.png">
 
