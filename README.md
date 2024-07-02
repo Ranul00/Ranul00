@@ -25,8 +25,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,swift,java,spring,py,flask,angular,bootstrap,html,css,sass,express,js,ts,nestjs,nodejs,jest,postman,mongodb,mysql,redis,docker,anaconda,opencv,pytorch,sklearn,tensorflow,xd,figma,ps)
 
-<p><img style="height:200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranul00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ranul00" /></p>
+<p><img style="height:190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranul00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ranul00" /></p>
 
-<p>&nbsp;<img style="height:200px" align="center" src="https://github-readme-stats.vercel.app/api?username=ranul00&show_icons=true&locale=en&theme=tokyonight" alt="ranul00" /></p>
+<p>&nbsp;<img style="height:190px" align="center" src="https://github-readme-stats.vercel.app/api?username=ranul00&show_icons=true&locale=en&theme=tokyonight" alt="ranul00" /></p>
 
-<p><img style="height:200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranul00&&theme=tokyonight" alt="ranul00" /></p>
+<p><img style="height:190px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranul00&&theme=tokyonight" alt="ranul00" /></p>
