@@ -22,9 +22,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-<!-- [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,css,express,figma,py,flask,git,html,java,js,ts,jest,mongodb,mysql,nestjs,nodejs,opencv,postman,pytorch,sass,sklearn,spring,swift,tensorflow,xd,figma,ps)](https://skillicons.dev) -->
-[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,css,express,figma,py,flask,git,html,java,js,ts,jest,mongodb,mysql,nestjs,nodejs,opencv,postman,pytorch,sass,sklearn,spring,swift,tensorflow,xd,figma,ps)](https://skillicons.dev)
+
+![My Skills](https://skillicons.dev/icons?i=git,swift,java,spring,py,flask,angular,bootstrap,html,css,sass,express,js,ts,nestjs,nodejs,jest,postman,mongodb,mysql,redis,docker,anaconda,opencv,pytorch,sklearn,tensorflow,xd,figma,ps)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranul00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ranul00" /></p>
 
