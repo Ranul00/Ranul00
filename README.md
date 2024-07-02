@@ -58,8 +58,8 @@
  -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranul00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ranul00" /></p>
+<p><img style="height: 195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranul00&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ranul00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranul00&show_icons=true&locale=en&theme=tokyonight" alt="ranul00" /></p>
+<p>&nbsp;<img style="height: 195px" align="center" src="https://github-readme-stats.vercel.app/api?username=ranul00&show_icons=true&locale=en&theme=tokyonight" alt="ranul00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranul00&&theme=tokyonight" alt="ranul00" /></p>
