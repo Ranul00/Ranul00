@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I'm currently working as a **Software Engineer** @ EchonLabs pvt ltd
 
-- 🌱 I’m currently learning **Flutter, Docker and Redis**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular, NestJS, Java, Swift**
 
