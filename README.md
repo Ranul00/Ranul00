@@ -5,7 +5,7 @@
 
 <img align="right" width="200" height="200" src="octocat.png">
 
-- 👨🏻‍💻 I'm currently working as a **Software Engineer** @ EchonLabs pvt ltd
+- 👨🏻‍💻 I'm currently working as a **Software Engineer** @ Telexar Technologies
 
 - 🌱 I’m currently learning **React**
 
